@@ -1,4 +1,4 @@
-# Agular Contacts App
+# Angular Contacts App
 
 This is an Angular2 frontend application that uses the [node contacts API](https://github.com/avansinformatica/node-contacts-api). Make shure it is running before starting this application.
 
