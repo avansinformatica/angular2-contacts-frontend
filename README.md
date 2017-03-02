@@ -25,3 +25,6 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## To watch
+- [Zen & The Art of Angular 2 by Igor Minar (YouTube)] (https://www.youtube.com/watch?v=3eOFCn5COvc&list=PL4sx9GKwQe0bXnRTYnS5d6GYIQ6bqZw2a). Second half of the presentation has a nice hands-on demo.
