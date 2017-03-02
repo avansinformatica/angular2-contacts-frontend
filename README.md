@@ -1,6 +1,6 @@
 # Angular Contacts App
 
-This is an Angular2 frontend application that uses the [node contacts API](https://github.com/avansinformatica/node-contacts-api). Make shure it is running before starting this application.
+This is an Angular2 frontend application that uses the [node contacts API](https://github.com/avansinformatica/node-contacts-api). Make sure it is running before starting this application.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.0.
 
