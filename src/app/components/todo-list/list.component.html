@@ -1,0 +1,7 @@
+<md-card *ngFor="let todo of todos" [routerLink]="['/', todo._id]">
+  De titel is {{todo.title}}
+</md-card>
+<div *ngIf="todos.length == 0">
+  <p>Geen todos gevonden.</p>
+</div>
+
