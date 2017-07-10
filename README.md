@@ -21,4 +21,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 Before running the tests make sure you are serving the app via `ng serve`.
 
 ## To watch
-- [Zen & The Art of Angular 2 by Igor Minar (YouTube)] (https://www.youtube.com/watch?v=3eOFCn5COvc&list=PL4sx9GKwQe0bXnRTYnS5d6GYIQ6bqZw2a). Second half of the presentation (at 35'') has a nice hands-on demo.
+- [Zen & The Art of Angular 2 by Igor Minar](https://www.youtube.com/watch?v=3eOFCn5COvc&list=PL4sx9GKwQe0bXnRTYnS5d6GYIQ6bqZw2a). Second half of the presentation (at 35'') has a nice hands-on demo.
